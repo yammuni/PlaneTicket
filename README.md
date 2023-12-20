@@ -1,2 +1,2 @@
 # PlaneTicket
-web programlama derin projesi
+web programlama dersin projesi
